@@ -1,0 +1,14 @@
+C:\Users\Valera\Documents\GitHub\Freelansim-WinPhone-7-FREE\Freelansim-WinPhone7\Freelansim-WinPhone7\Bin\Debug\ApplicationIcon.png
+C:\Users\Valera\Documents\GitHub\Freelansim-WinPhone-7-FREE\Freelansim-WinPhone7\Freelansim-WinPhone7\Bin\Debug\Background.png
+C:\Users\Valera\Documents\GitHub\Freelansim-WinPhone-7-FREE\Freelansim-WinPhone7\Freelansim-WinPhone7\Bin\Debug\Freelansim-WinPhone7.dll
+C:\Users\Valera\Documents\GitHub\Freelansim-WinPhone-7-FREE\Freelansim-WinPhone7\Freelansim-WinPhone7\Bin\Debug\Freelansim-WinPhone7.pdb
+C:\Users\Valera\Documents\GitHub\Freelansim-WinPhone-7-FREE\Freelansim-WinPhone7\Freelansim-WinPhone7\Bin\Debug\AppManifest.xaml
+C:\Users\Valera\Documents\GitHub\Freelansim-WinPhone-7-FREE\Freelansim-WinPhone7\Freelansim-WinPhone7\Bin\Debug\Freelansim_WinPhone7.xap
+C:\Users\Valera\Documents\GitHub\Freelansim-WinPhone-7-FREE\Freelansim-WinPhone7\Freelansim-WinPhone7\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Valera\Documents\GitHub\Freelansim-WinPhone-7-FREE\Freelansim-WinPhone7\Freelansim-WinPhone7\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Valera\Documents\GitHub\Freelansim-WinPhone-7-FREE\Freelansim-WinPhone7\Freelansim-WinPhone7\obj\Debug\App.g.i.cs
+C:\Users\Valera\Documents\GitHub\Freelansim-WinPhone-7-FREE\Freelansim-WinPhone7\Freelansim-WinPhone7\obj\Debug\MainPage.g.i.cs
+C:\Users\Valera\Documents\GitHub\Freelansim-WinPhone-7-FREE\Freelansim-WinPhone7\Freelansim-WinPhone7\obj\Debug\Freelansim-WinPhone7.g.resources
+C:\Users\Valera\Documents\GitHub\Freelansim-WinPhone-7-FREE\Freelansim-WinPhone7\Freelansim-WinPhone7\obj\Debug\Freelansim-WinPhone7.dll
+C:\Users\Valera\Documents\GitHub\Freelansim-WinPhone-7-FREE\Freelansim-WinPhone7\Freelansim-WinPhone7\obj\Debug\Freelansim-WinPhone7.pdb
+C:\Users\Valera\Documents\GitHub\Freelansim-WinPhone-7-FREE\Freelansim-WinPhone7\Freelansim-WinPhone7\obj\Debug\XapCacheFile.xml
